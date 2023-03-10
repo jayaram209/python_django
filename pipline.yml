@@ -1,3 +1,4 @@
 docker_registry_updated: True
 use_registry: True
 java: 11
+python: 3.10
